@@ -42,7 +42,7 @@ Then define:
 - grip_id (optional)
 
 ### Examples
- 
+### Json File Example:
 ```
 {
   "loadouts": {
@@ -68,4 +68,19 @@ Then define:
     }
   }
 }
+```
+
+### Folder Path Example:
+
+```
+└── ExampleName DataPack.zip/
+    ├── pack.mcmeta
+    └── data/
+        └── simpleenemymod/
+            └── unit_loadouts/
+                ├── us_units/
+                ├── ru_units/
+                └── pmc_units/
+                    ├── loadouts.json
+                    └── my_custom_loadout_pool.json
 ```
