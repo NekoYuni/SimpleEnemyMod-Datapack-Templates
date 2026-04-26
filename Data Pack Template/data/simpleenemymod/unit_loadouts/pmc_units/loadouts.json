@@ -1,5 +1,5 @@
 {
-  "custom_loadouts": {
+  "loadouts": {
     "m4a1": {
       "gun_id": "tacz:m4a1",
       "ammo_count": 30,
